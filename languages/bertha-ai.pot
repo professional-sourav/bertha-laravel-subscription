@@ -1,0 +1,1205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bertha AI\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-28 15:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: bertha-ai"
+
+#: classes/class-bertha-ai-admin.php:995
+msgid "A client"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:999
+msgid "A company I work for"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:415 classes/class-bertha-ai.php:518
+msgid ""
+"A converting description that will go below your USP on the website - great "
+"for H2 Headings and SEO."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:814 classes/class-bertha-ai-admin.php:947
+msgid "Activate"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:848
+msgid ""
+"Add a whole new dimension to your business and provide a competitive edge "
+"against your competitors."
+msgstr ""
+
+#: classes/class-bertha-ai.php:62 classes/class-bertha-ai.php:102
+msgid "Add New"
+msgstr ""
+
+#: classes/class-bertha-ai.php:101
+msgid "Add New Backedn"
+msgstr ""
+
+#: classes/class-bertha-ai.php:61
+msgid "Add New Idea"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:121
+msgid ""
+"Add the details of your brand below to help Bertha to know you better.<br>"
+"This will be used to help Bertha generate content ideas that is unique to "
+"your brand and preferences."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:506 classes/class-bertha-ai-admin.php:507
+#: classes/class-bertha-ai-admin.php:637 classes/class-bertha-ai.php:609
+#: classes/class-bertha-ai.php:610 classes/class-bertha-ai.php:740
+msgid "AIDA Marketing Framework"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:394 classes/class-bertha-ai.php:497
+msgid "All"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:616 classes/class-bertha-ai.php:719
+msgid "All Templates"
+msgstr ""
+
+#: classes/class-bertha-ai.php:285
+msgid "Any"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:507 classes/class-bertha-ai.php:610
+msgid ""
+"Awareness > Interest > Desire > Action - Structure your writing and create "
+"more compelling content."
+msgstr ""
+
+#: classes/class-bertha-ai.php:97 classes/class-bertha-ai.php:99
+#: classes/class-bertha-ai.php:111 classes/class-bertha-ai.php:112
+msgid "Backedn"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:224
+msgid "Become Bertha's Partner"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:512 classes/class-bertha-ai-admin.php:513
+#: classes/class-bertha-ai-admin.php:640 classes/class-bertha-ai.php:615
+#: classes/class-bertha-ai.php:616 classes/class-bertha-ai.php:743
+msgid "Before, After and Bridge"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:432 classes/class-bertha-ai.php:535
+msgid "Benefit Lists"
+msgstr ""
+
+#. Name of the plugin
+#: classes/class-bertha-ai-admin.php:47
+msgid "Bertha AI"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:463 classes/class-bertha-ai.php:566
+msgid ""
+"Bertha already knows you. She will write an overview, history, mission and "
+"vision for your company."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:546 classes/class-bertha-ai.php:649
+msgid ""
+"Bertha can write a blog post conclusion paragraph that will help your "
+"visitors stick around to read the rest of your content."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:142
+msgid "Bertha Everywhere"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Bertha is an AI-based writing assistant that has been trained on hundreds of "
+"billions of lines of content to help you write better content on your "
+"WordPress website. In just a few clicks, you can have a variety of content "
+"for your website that’s guaranteed to convert – from blog posts to landing "
+"pages, to product pages."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:962
+msgid ""
+"Bertha is excited to start and to become your helper in generating quality "
+"content for your WordPress website.\n"
+"Enter your email to download Bertha’s plugin for FREE:"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:867
+msgid ""
+"Bertha Pro gives you so much more. NO Commands or recipes to learn, no "
+"technical key stokes to complete. \n"
+"Simply tell Her what you want, where you want it and Voila! You have "
+"optimised content which needs only the slightest editing to ensure complete "
+"copy that your readers will love as much as the search engines."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:881
+msgid ""
+"Bertha values you and we value her. Support is supplied via our premium "
+"options first and frankly, that is the way it should be."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:845
+msgid ""
+"Bertha's AI-Based Long Form content generator - Allowing you to click the "
+"button and generate full, SEO Driven, blog posts, articles, landing pages "
+"and any other type of long form content that you can imagine."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:870
+msgid ""
+"Bertha's Extra templates help you create a wide variety of content around "
+"your chosen subject matter. No more hesitation when trying to think of an "
+"AIDA or PAS description for your marketing copy."
+msgstr ""
+
+#. Author of the plugin
+msgid "Bertha.ai"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:396 classes/class-bertha-ai.php:499
+msgid "Blog"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:545 classes/class-bertha-ai-admin.php:546
+#: classes/class-bertha-ai-admin.php:633 classes/class-bertha-ai.php:648
+#: classes/class-bertha-ai.php:649 classes/class-bertha-ai.php:736
+msgid "Blog Post Conclusion Paragraph"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:539 classes/class-bertha-ai-admin.php:540
+#: classes/class-bertha-ai-admin.php:632 classes/class-bertha-ai.php:642
+#: classes/class-bertha-ai.php:643 classes/class-bertha-ai.php:735
+msgid "Blog Post Intro Paragraph"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:533 classes/class-bertha-ai-admin.php:534
+#: classes/class-bertha-ai-admin.php:631 classes/class-bertha-ai.php:636
+#: classes/class-bertha-ai.php:637 classes/class-bertha-ai.php:734
+msgid "Blog Post Outline"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:527 classes/class-bertha-ai-admin.php:528
+#: classes/class-bertha-ai-admin.php:630 classes/class-bertha-ai.php:630
+#: classes/class-bertha-ai.php:631 classes/class-bertha-ai.php:733
+msgid "Blog Post Topic Ideas"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:523 classes/class-bertha-ai.php:626
+msgid "Blog Posts Creation"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:126 classes/class-bertha-ai-admin.php:921
+msgid "Brand Name"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:559 classes/class-bertha-ai-admin.php:560
+#: classes/class-bertha-ai-admin.php:639 classes/class-bertha-ai.php:662
+#: classes/class-bertha-ai.php:663 classes/class-bertha-ai.php:742
+msgid "Business or Product Name"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:1013
+msgid "Business website"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:420 classes/class-bertha-ai-admin.php:421
+#: classes/class-bertha-ai-admin.php:619 classes/class-bertha-ai.php:523
+#: classes/class-bertha-ai.php:524 classes/class-bertha-ai.php:722
+msgid "Button Call to Action"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:142
+msgid ""
+"Choose Bertha everywhere if you want Bertha to appear in each text field. If "
+"not - choose to only have Bertha available when you click on the side bar."
+msgstr ""
+
+#: classes/class-bertha-ai.php:285
+msgid "Click"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:943
+msgid ""
+"Click the button below to confirm your license and connect to Bertha's AI "
+"engine."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:462 classes/class-bertha-ai.php:565
+msgid "Company Bio"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:130 classes/class-bertha-ai-admin.php:925
+msgid "Company Description"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:468 classes/class-bertha-ai-admin.php:469
+#: classes/class-bertha-ai-admin.php:628 classes/class-bertha-ai.php:571
+#: classes/class-bertha-ai.php:572 classes/class-bertha-ai.php:731
+msgid "Company Mission & Vision"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:492 classes/class-bertha-ai-admin.php:645
+#: classes/class-bertha-ai.php:595 classes/class-bertha-ai.php:748
+msgid "Contact Form Blurb"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:450 classes/class-bertha-ai.php:553
+msgid "Content Improver"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:451 classes/class-bertha-ai-admin.php:623
+#: classes/class-bertha-ai.php:554 classes/class-bertha-ai.php:726
+msgid "Content Rephraser"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:565 classes/class-bertha-ai-admin.php:566
+#: classes/class-bertha-ai-admin.php:644 classes/class-bertha-ai.php:668
+#: classes/class-bertha-ai.php:669 classes/class-bertha-ai.php:747
+msgid "Content Summary"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:1017
+msgid "Content website (blog/articles)"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:496 classes/class-bertha-ai.php:599
+msgid "Converting Marketing Copy"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:501 classes/class-bertha-ai.php:604
+msgid ""
+"Convince readers that your product is the best by listing all the reasons "
+"they should take action NOW."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:560 classes/class-bertha-ai.php:663
+msgid ""
+"Create a new business or product name from scratch based on a keyword or "
+"phrase."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:493 classes/class-bertha-ai.php:596
+msgid ""
+"Create a short description & Call to Action that will be used as the final "
+"persuasion text next to a contact form."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:566 classes/class-bertha-ai.php:669
+msgid ""
+"Create a summary of an article/website/blog post. Great for SEO and to share "
+"on social media."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:497 classes/class-bertha-ai.php:600
+msgid ""
+"Create copy that converts based on battle tested content marketing "
+"frameworks that will apply to your business service or product."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:847
+msgid ""
+"Create quality, engaging content that will connect with your audience and "
+"increase your sales conversions."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:427 classes/class-bertha-ai.php:530
+msgid ""
+"Creative titles for each section of your website. No more boring \"About "
+"us\" type of titles."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:811
+msgid "Deactivate License"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:134 classes/class-bertha-ai-admin.php:135
+#: classes/class-bertha-ai-admin.php:929
+msgid "Describe the group/s of people you are serving or targeting"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:930
+msgid "Describe the groups of people you are serving or targeting"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:130 classes/class-bertha-ai-admin.php:131
+#: classes/class-bertha-ai-admin.php:925 classes/class-bertha-ai-admin.php:926
+msgid ""
+"Describe what you do, where you started, your products or services and the "
+"benefits you bring to the market"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:607 classes/class-bertha-ai.php:710
+msgid ""
+"Did Bertha miss anything that can help you perfect your website content "
+"generation? Let her know here."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:353
+msgid "Drafts"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:1021
+msgid "Ecommerce platform (WooCommerce)"
+msgstr ""
+
+#: classes/class-bertha-ai.php:103
+msgid "Edit Backedn"
+msgstr ""
+
+#: classes/class-bertha-ai.php:63
+msgid "Edit Idea"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:970
+msgid "Email"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:653 classes/class-bertha-ai.php:756
+msgid "Every Favourite idea has added is saved here for easy re-use."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:360 classes/class-bertha-ai-admin.php:658
+msgid ""
+"Every Long Form Draft is saved in your history so that you may re use as you "
+"wish"
+msgstr ""
+
+#: classes/class-bertha-ai.php:717
+msgid "Every output Bertha has generated is saved here for easy re-use."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:600 classes/class-bertha-ai-admin.php:601
+#: classes/class-bertha-ai-admin.php:647 classes/class-bertha-ai.php:703
+#: classes/class-bertha-ai.php:704 classes/class-bertha-ai.php:750
+msgid "Evil Bertha"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:553 classes/class-bertha-ai-admin.php:554
+#: classes/class-bertha-ai-admin.php:634 classes/class-bertha-ai.php:656
+#: classes/class-bertha-ai.php:657 classes/class-bertha-ai.php:737
+msgid "Explain It To a Child"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:400 classes/class-bertha-ai.php:503
+msgid "Extras"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:486 classes/class-bertha-ai-admin.php:487
+#: classes/class-bertha-ai-admin.php:643 classes/class-bertha-ai.php:589
+#: classes/class-bertha-ai.php:590 classes/class-bertha-ai.php:746
+msgid "FAQ Answers"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:480 classes/class-bertha-ai-admin.php:481
+#: classes/class-bertha-ai-admin.php:642 classes/class-bertha-ai.php:583
+#: classes/class-bertha-ai.php:584 classes/class-bertha-ai.php:745
+msgid "FAQs List"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:652 classes/class-bertha-ai.php:755
+msgid "Favourite Ideas"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:350 classes/class-bertha-ai.php:487
+msgid "Favourites"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:942
+msgid "Final Step, Let's Activate Your License"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:966
+msgid "First Name"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:680
+msgid ""
+"For better results, please format the generated text before pushing the "
+"button again."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:1003
+msgid "For someone else"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:469 classes/class-bertha-ai.php:572
+msgid ""
+"From your company description, Bertha will write inspiring Mission and "
+"Vision statements for your \"About Us\" page."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:463 classes/class-bertha-ai-admin.php:627
+#: classes/class-bertha-ai.php:566 classes/class-bertha-ai.php:730
+msgid "Full-on About Us Page"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:52
+msgid "General Settings"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:481 classes/class-bertha-ai.php:584
+msgid "Generate a list of frequently asked questions for a service or product."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:586 classes/class-bertha-ai.php:689
+msgid ""
+"Generate city page titles and descriptions for your city or town pages to "
+"help rank your website locally."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:223
+msgid "generate substantial recurring revenue"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:592 classes/class-bertha-ai.php:695
+msgid ""
+"Generate suggestions of long-tail keywords that are related to your topic."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:681
+msgid "Generate Text"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:513 classes/class-bertha-ai.php:616
+msgid ""
+"Get a short description to build a page with a before and after look, with a "
+"transition in between."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:487 classes/class-bertha-ai.php:590
+msgid "Get an anwser to a question."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:860
+msgid ""
+"Get Bertha AI Pro today and change the way you write content for users, for "
+"search engines and to rank higher than ever before for blogs, landing pages, "
+"products and most importantly for local business listings too."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:574 classes/class-bertha-ai.php:677
+msgid ""
+"Get highly optimized title tags that will help you rank higher in search "
+"engines."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:113
+msgid "Global Writer Assistant Settings"
+msgstr ""
+
+#: classes/class-bertha-ai.php:763
+msgid "Go PRO"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:445 classes/class-bertha-ai.php:548
+msgid ""
+"Great for getting over writers block: Craft creative short paragraphs fro "
+"different areas of your website in blog posts and pages."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:982
+msgid "Help me get to know you better"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:223
+msgid ""
+"Help your friends, clients and partners create better content for their "
+"website to"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:961
+#, php-format
+msgid "Hey, %s!"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:347 classes/class-bertha-ai.php:484
+msgid "History"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://bertha.ai/"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:983
+msgid ""
+"I have just a few questions for you that will calibrate my engines and help "
+"me improve our collaborative experience."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:906
+msgid "I'm Bertha, your new writing assistant"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:987
+msgid "I\\'m installing Bertha on the website of..."
+msgstr ""
+
+#: classes/class-bertha-ai.php:57 classes/class-bertha-ai.php:71
+#: classes/class-bertha-ai.php:72
+msgid "Idea"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:134 classes/class-bertha-ai-admin.php:929
+msgid "Ideal Customer"
+msgstr ""
+
+#: classes/class-bertha-ai.php:59
+msgid "Ideas"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:433 classes/class-bertha-ai.php:536
+msgid ""
+"Instantly generate a list of differentiators and benefits for your own "
+"company and brand."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:212
+msgid "Join Bertha's Community"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:214
+msgid "Join The Facebook Community"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:380 classes/class-bertha-ai-admin.php:381
+msgid "Keywords (Seperate with Comma)"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:48
+msgid "Launch Bertha"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:961
+msgid "Let's get you on board!"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:570 classes/class-bertha-ai.php:673
+msgid ""
+"Level up your search engine ranking and speed up repetitive SEO content "
+"related tasks."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:550 classes/class-bertha-ai.php:653
+msgid ""
+"Leverage these extras for additional content or add clarity throughout your "
+"website that will create copy that your readers can relate to."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:53
+msgid "License"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:738 classes/class-bertha-ai-admin.php:746
+msgid "License Verification"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:341
+msgid "Long Form"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:50
+msgid "Long Form Content"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:844
+msgid "Long Form Content Generator"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:359
+msgid "Long Form Details"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:657
+msgid "Long Form Drafts"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:244 classes/class-bertha-ai-admin.php:836
+msgid "Long-Form"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:241
+msgid "Long-Form Content Generator"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:747
+msgid "Manage your license activation with 1 click."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:534 classes/class-bertha-ai.php:637
+msgid ""
+"Map out your blog post's outline simply by adding the title or topic of the "
+"blog post you want to create. Bertha will take care of the rest."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:398 classes/class-bertha-ai.php:501
+msgid "Marketing"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:524 classes/class-bertha-ai.php:627
+msgid ""
+"Models to compile amazing blog posts. Each model is optimised for different "
+"sections of a blog post."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:405 classes/class-bertha-ai.php:508
+msgid ""
+"Models to perfect the micro-copy of the website, choose the right model for "
+"each section you\\'re working on for optimal results."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:866
+msgid "More Words and Templates"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:991
+msgid "My business / Myself"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:911 classes/class-bertha-ai-admin.php:977
+#: classes/class-bertha-ai-admin.php:1032
+msgid "Next"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:595 classes/class-bertha-ai.php:698
+msgid "Niche Specific & Edge Cases"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:451 classes/class-bertha-ai.php:554
+msgid ""
+"Not confident with what you wrote? Paste it in and let Bertha's magic make "
+"it all better."
+msgstr ""
+
+#: classes/class-bertha-ai.php:66 classes/class-bertha-ai.php:106
+msgid "Not Found"
+msgstr ""
+
+#: classes/class-bertha-ai.php:67 classes/class-bertha-ai.php:107
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:540 classes/class-bertha-ai.php:643
+msgid ""
+"Not sure how to start writing your next winning blog post? Bertha will get "
+"the ball rolling on taking your blog post topic and generate an intriguing "
+"intro paragraph."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:57
+msgid "Onboard Dashboard"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:60
+msgid "Onboard Free Dashboard"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:57
+msgid "Onboarding Dashboard"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:60
+msgid "Onboarding Free Dashboard"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:138 classes/class-bertha-ai-admin.php:139
+#: classes/class-bertha-ai-admin.php:933 classes/class-bertha-ai-admin.php:934
+msgid "One word to describe the vibe you want Bertha to bring to your copy"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:213
+msgid ""
+"Our community of business owners, writers and content marketers are "
+"constantly sharing their knowledge to help you become a better writer."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:880
+msgid ""
+"Our team of WordPress and AI experts are happy to help with any question, "
+"wehter it's a Bertha related problem on the website or just some advice on "
+"how to get the most our of this amazing technology. As soon as you upgrade "
+"your account you have access to our quality support team."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:444 classes/class-bertha-ai-admin.php:445
+#: classes/class-bertha-ai-admin.php:622 classes/class-bertha-ai.php:547
+#: classes/class-bertha-ai.php:548 classes/class-bertha-ai.php:725
+msgid "Paragraph Generator"
+msgstr ""
+
+#: classes/class-bertha-ai.php:98
+msgid "Parent Backedn"
+msgstr ""
+
+#: classes/class-bertha-ai.php:58
+msgid "Parent Idea"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:518 classes/class-bertha-ai-admin.php:519
+#: classes/class-bertha-ai-admin.php:641 classes/class-bertha-ai.php:621
+#: classes/class-bertha-ai.php:622 classes/class-bertha-ai.php:744
+msgid "PAS Framework"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:457 classes/class-bertha-ai.php:560
+msgid "Perfect for e-commerce Stores."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:474 classes/class-bertha-ai.php:577
+msgid "Personal Bio"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:475 classes/class-bertha-ai-admin.php:629
+#: classes/class-bertha-ai.php:578 classes/class-bertha-ai.php:732
+msgid "Personal Bio (About Me)"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:500 classes/class-bertha-ai-admin.php:501
+#: classes/class-bertha-ai-admin.php:626 classes/class-bertha-ai.php:603
+#: classes/class-bertha-ai.php:604 classes/class-bertha-ai.php:729
+msgid "Persuasive Bullet Points"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:605 classes/class-bertha-ai.php:708
+msgid "Please wait ...."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:219
+msgid "Post a Review"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:409 classes/class-bertha-ai.php:512
+msgid "Premium"
+msgstr ""
+
+#: classes/class-bertha-ai.php:404
+msgid "Premium"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:878
+msgid "Premium Support"
+msgstr ""
+
+#: classes/class-bertha-ai.php:716
+msgid "Previously Created Content"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:519 classes/class-bertha-ai.php:622
+msgid ""
+"Problem > Agitate > Solution - A framework for planning and evaluating your "
+"content marketing activities."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:456 classes/class-bertha-ai-admin.php:457
+#: classes/class-bertha-ai-admin.php:625 classes/class-bertha-ai.php:559
+#: classes/class-bertha-ai.php:560 classes/class-bertha-ai.php:728
+msgid "Product/Service Description"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:222
+msgid "Refer Bertha to a Friend"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:147 classes/class-bertha-ai-admin.php:682
+#: classes/class-bertha-ai-admin.php:937
+msgid "Save Changes"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:207
+msgid ""
+"Save time by writing better content in less time, and take the guesswork out "
+"of deciding what to post on your website with many more writing models and "
+"even unlimited usage to take your content creation to the next level!"
+msgstr ""
+
+#: classes/class-bertha-ai.php:105
+msgid "Search Backedn"
+msgstr ""
+
+#: classes/class-bertha-ai.php:65
+msgid "Search Idea"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:392 classes/class-bertha-ai.php:495
+msgid "Search Templates"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:426 classes/class-bertha-ai-admin.php:427
+#: classes/class-bertha-ai-admin.php:620 classes/class-bertha-ai.php:529
+#: classes/class-bertha-ai.php:530 classes/class-bertha-ai.php:723
+msgid "Section Title Generator"
+msgstr ""
+
+#: classes/class-bertha-ai.php:312
+msgid "Send a report"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:397 classes/class-bertha-ai.php:500
+msgid "SEO"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:585 classes/class-bertha-ai-admin.php:586
+#: classes/class-bertha-ai-admin.php:638 classes/class-bertha-ai.php:688
+#: classes/class-bertha-ai.php:689 classes/class-bertha-ai.php:741
+msgid "SEO City Based Pages"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:579 classes/class-bertha-ai-admin.php:580
+#: classes/class-bertha-ai-admin.php:636 classes/class-bertha-ai.php:682
+#: classes/class-bertha-ai.php:683 classes/class-bertha-ai.php:739
+msgid "SEO Description Tag"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:855
+msgid "SEO Features"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:569 classes/class-bertha-ai.php:672
+msgid "SEO Focused Content"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:591 classes/class-bertha-ai-admin.php:592
+#: classes/class-bertha-ai-admin.php:646 classes/class-bertha-ai.php:694
+#: classes/class-bertha-ai.php:695 classes/class-bertha-ai.php:749
+msgid "SEO Keyword Suggestions"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:573 classes/class-bertha-ai-admin.php:574
+#: classes/class-bertha-ai-admin.php:635 classes/class-bertha-ai.php:676
+#: classes/class-bertha-ai.php:677 classes/class-bertha-ai.php:738
+msgid "SEO Title Tag"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:433 classes/class-bertha-ai-admin.php:624
+#: classes/class-bertha-ai.php:536 classes/class-bertha-ai.php:727
+msgid "Service/Product Benefit List"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:116 classes/class-bertha-ai-admin.php:244
+#: classes/class-bertha-ai-admin.php:836
+msgid "Settings"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:217
+msgid "Show Bertha Some Love"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:1025
+msgid "Something else"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:399 classes/class-bertha-ai.php:502
+msgid "Speciality"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:596 classes/class-bertha-ai.php:699
+msgid ""
+"Specialized content models that fit common types of content that are used "
+"for specific niches and industries."
+msgstr ""
+
+#: classes/class-bertha-ai.php:289
+msgid "Start Generating Content"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:858
+msgid ""
+"Stuck on what SEO suggestions you need? No more. Bertha has  been built just "
+"for you. With her suggestions,  you will surely rank higher than your "
+"competitors."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:607 classes/class-bertha-ai.php:710
+msgid "Suggest a Template"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:116 classes/class-bertha-ai-admin.php:244
+#: classes/class-bertha-ai-admin.php:836
+msgid "Support"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:439 classes/class-bertha-ai.php:542
+msgid ""
+"Take a benefit of your product/service and expand it to provide additional "
+"engaging details."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:554 classes/class-bertha-ai.php:657
+msgid ""
+"Taking complex concepts and simplifying them. So that everyone can get it. "
+"Get it?"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:373
+msgid "Target Audience"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:344 classes/class-bertha-ai.php:481
+msgid "Templates"
+msgstr ""
+
+#: classes/class-bertha-ai.php:285
+msgid "Text Area Within Your Website To Start Generating Content"
+msgstr ""
+
+#: classes/class-bertha-ai.php:300
+msgid "Thanks for letting us know!"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:409 classes/class-bertha-ai.php:512
+msgid ""
+"That will make you stand out form the Crowd and used as the top sentence of "
+"your website."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:893
+msgid ""
+"The content on this page was generated with the help of Bertha's PRO "
+"Features."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:846
+msgid ""
+"The first Long form content generator that is fully automated allowing you "
+"to create full articles within minutes."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:1009
+msgid "The website is a..."
+msgstr ""
+
+#: classes/class-bertha-ai.php:301
+msgid "This is how we improve bertha"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:983
+msgid "This should take about 2 minutes."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:917
+msgid ""
+"This will be used to help Bertha generate content ideas that are unique to "
+"your brand and preferences."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:364 classes/class-bertha-ai-admin.php:365
+msgid "Title / Subject"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:438 classes/class-bertha-ai-admin.php:439
+#: classes/class-bertha-ai-admin.php:621 classes/class-bertha-ai.php:541
+#: classes/class-bertha-ai.php:542 classes/class-bertha-ai.php:724
+msgid "Title to Benefit Sections"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:138 classes/class-bertha-ai-admin.php:377
+#: classes/class-bertha-ai-admin.php:933
+msgid "Tone of Voice"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:528 classes/class-bertha-ai.php:631
+msgid ""
+"Trained with data from hundreds of thousands of blog posts, Bertha uses this "
+"data to generate a variety of creative blog post ideas."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:408 classes/class-bertha-ai-admin.php:409
+#: classes/class-bertha-ai-admin.php:617 classes/class-bertha-ai.php:511
+#: classes/class-bertha-ai.php:512 classes/class-bertha-ai.php:720
+msgid "Unique Value Proposition"
+msgstr ""
+
+#: classes/class-bertha-ai.php:763
+msgid "Unlock additional templates &amp; features to get more out of Bertha"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:890
+msgid "Unlock Everything!"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:206
+msgid "Unlock More Features & More Words"
+msgstr ""
+
+#: classes/class-bertha-ai.php:104
+msgid "Update Backedn"
+msgstr ""
+
+#: classes/class-bertha-ai.php:64
+msgid "Update Idea"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:116 classes/class-bertha-ai-admin.php:244
+#: classes/class-bertha-ai-admin.php:836
+msgid "Upgrade"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:208 classes/class-bertha-ai-admin.php:316
+msgid "Upgrade Now"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:891
+msgid "Upgrade today to experience the true power of Bertha AI."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:155
+msgid "Usage Metrics"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:218
+msgid ""
+"Use Bertha to write a review in just 3 clicks - This helps her spread the "
+"word of the work she is doing"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:549 classes/class-bertha-ai.php:652
+msgid "Useful Extras"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:601 classes/class-bertha-ai.php:704
+msgid "Usually Bertha is nice and friendly, but not always..."
+msgstr ""
+
+#: classes/class-bertha-ai.php:100
+msgid "View Backedn"
+msgstr ""
+
+#: classes/class-bertha-ai.php:60
+msgid "View Idea"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:55
+msgid "Want More?"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:833
+msgid "Want More? Here's What You're Missing"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:907
+msgid ""
+"Watch this short video to learn what I can do for you and your writing "
+"experience.<br>The more we get to know each other, the better results I can "
+"provide for you and your business"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:856
+msgid ""
+"We all know that SEO is important. Bertha AI works so well with all SEO for "
+"WordPress plugins, we know you are going to love optimising pages to be the "
+"absolute best they can be."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:879
+#, php-format
+msgid ""
+"We hear so often that Support lets down a great product. Our premium Pro "
+"Users get the fastest support possible and we have a 100% fix rate within 24 "
+"hours. It really is quite simple, great products deserve great support and "
+"Bertha gives her all, as do the people that are behind her!"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:882
+msgid ""
+"We love our mantra of customers come first and if you have an issue. You can "
+"use our support links here and if you are a free or Pro user, take advantage "
+"of joining our Facebook group and get peer to peer support as well as "
+"helpful tips and suggestions from our founders and Pro Users."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:395 classes/class-bertha-ai.php:498
+msgid "Website"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:404 classes/class-bertha-ai.php:507
+msgid "Website Copy Generation"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:414 classes/class-bertha-ai-admin.php:415
+#: classes/class-bertha-ai-admin.php:618 classes/class-bertha-ai.php:517
+#: classes/class-bertha-ai.php:518 classes/class-bertha-ai.php:721
+msgid "Website Sub-Headline"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:389 classes/class-bertha-ai.php:492
+msgid "What are we writing?"
+msgstr ""
+
+#: classes/class-bertha-ai.php:308
+msgid "What did you expect to happen?"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:857
+msgid ""
+"Whether it's Yoast, Rank Math, ALL in One SEO or any of your favorite SEO "
+"plugins. Bertha generated content will help you reach the right score for "
+"all of your content."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:841
+msgid ""
+"While we try to be as genereous as possible with the Lite version of Bertha, "
+"what you are seeing is just the tip of the iceberg!"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:421 classes/class-bertha-ai.php:524
+msgid ""
+"With Bertha, you can generate a call to action button that's guaranteed to "
+"convert. No more guessing what words will convert best!"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:869
+msgid ""
+"With more words, you can let Bertha free with creative suggestions. Create "
+"stunning descriptions, experiment and totally smash your Copy writing skills."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:369
+msgid ""
+"Write a short sentence or paragraph to help Bertha generate the best content "
+"for your article"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:871
+msgid ""
+"Write FAQ's like a Pro and give your customers the guidance they need to "
+"purchase, make a decision or recommend your product or service over others."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:475 classes/class-bertha-ai.php:578
+msgid ""
+"Writing about ourselves is hard. It's not for Bertha - Let her do it for you "
+"and only fix what's needed."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:580 classes/class-bertha-ai.php:683
+msgid ""
+"You are serious about SEO, But this is a tedious task that can easily be "
+"automated with Bertha."
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:916
+msgid "Your Brand Settings"
+msgstr ""
+
+#: classes/class-bertha-ai-admin.php:126 classes/class-bertha-ai-admin.php:127
+#: classes/class-bertha-ai-admin.php:921 classes/class-bertha-ai-admin.php:922
+#: classes/class-bertha-ai-admin.php:967 classes/class-bertha-ai-admin.php:971
+msgid "Your company or brand name"
+msgstr ""
